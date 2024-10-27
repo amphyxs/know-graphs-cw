@@ -1,5 +1,4 @@
-🧠 Knowledge Graphs Coursework
----
+## 🧠 Knowledge Graphs Coursework
 
 ## 💡 Idea
 
