@@ -13,3 +13,7 @@ Find interesting facts about musical artists and their tracks.
 ### Jupyter Notebook
 
 [Google Collab](https://colab.research.google.com/github/amphyxs/know-graphs-cw/blob/main/main.ipynb)
+
+### Dataset
+
+[Kaggle](https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019)
